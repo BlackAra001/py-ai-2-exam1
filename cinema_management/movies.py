@@ -38,3 +38,4 @@ def delete_movie(movies):
             print("Фильм удален.")
             return
     print("Фильм с таким ID не найден.")
+    print("Фильм с таким ID не найден.")
