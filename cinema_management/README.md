@@ -31,4 +31,3 @@
 Работа велась по модели Feature Branch Workflow:
 *   Каждый модуль разрабатывался в отдельной ветке (feature/movies, feature/halls и т.д.).
 *   Все изменения вливались в main через Pull Request.
-*   Проводился Code Review (проверка кода сокомандников).
